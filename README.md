@@ -1,13 +1,13 @@
 <div id="header" align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXkxMHBwMmdwNnM2cmd3MGltdTMxbjg5bWtkbnQ2Z2hnYTEwbG5qbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100" />
     <div id="badge">
-        <a href="https://twitter.com/Shuhei_Ota">
+        <a href="https://twitter.com/Shuhei_Ota" target="_blank">
         <img src="https://shields.io/badge/x.com-black?logo=X&logoColor=white&style=for-the-badge" alt="X badge"/>
         </a>
-        <a href="https://www.linkedin.com/in/shuhei-ota-994287289/">
+        <a href="https://www.linkedin.com/in/shuhei-ota-994287289/" target="_blank">
         <img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
         </a>
-        <a href="https://dev.to/shoeheyot">
+        <a href="https://dev.to/shoeheyot" target="_blank">
         <img src="https://shields.io/badge/dev.to-black?logo=dev.to&logoColor=white&style=for-the-badge" alt="DEV.to badge"/>
         </a>
     </div>
