@@ -29,7 +29,19 @@ I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
 - :seedling: love to explore a new technology
 - :tada: hobbies other than coding are basketball :basketball_man:, hiking:hiking_boot:, and beer:beers:
 - :envelope_with_arrow: please reach me out via
-[mail](mailto:shuhei.ota.so@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-ShoeheyOt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shuhei-ota-994287289/)
+  [mail](mailto:shuhei.ota.so@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-ShoeheyOt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shuhei-ota-994287289/)
+
+---
+
+### :hammer_and_pick: Languages and Tools
+
+<p>
+<a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="HTML" width="40" height="40"/>
+</a>
+
+</p>
+
 <!---
 ShoeheyOt/ShoeheyOt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
