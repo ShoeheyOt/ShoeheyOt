@@ -12,8 +12,12 @@
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=ShoeheyOt&style=flat-square&color=blue" alt="this is counter"/>
-    <h1>hey there
+    <div style="font-size:28; font-weight:bold">hey there
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZiNXd2NTFjMGJnamZ2aGd0cjVxbTI0d3F5dGd5bmY3YmZvcTlleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </div>
+</div>
+<div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWF5bm5pYTIydjlsYm91Z241Z3B0NXdiOTRqNGQ1NjQ0Z2hlN254NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 </div>
 <!---
 ShoeheyOt/ShoeheyOt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
