@@ -54,8 +54,7 @@ I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
     <a href="https://www.prisma.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="prisma" alt="prisma" width="40" height="40"/></a>&nbsp;
     <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/></a>&nbsp;
     <a href="https://supabase.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="supabase" alt="supabase" width="40" height="40"/></a>&nbsp;
-    <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
-    </a>&nbsp;
+    <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/></a>&nbsp;
     <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
     <a href="https://ubuntu.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntsu" alt="Ubuntsu" width="40" height="40"/></a>&nbsp;
     <a href="https://www.vim.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="VIM" alt="VIM" width="40" height="40"/></a>&nbsp;
