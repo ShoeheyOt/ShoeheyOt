@@ -45,9 +45,9 @@ I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/></a>
-<a><img title="shadcn/ui" alt="shadcn/ui" width="40" height="40"/></a>
-<a><img title="styled-components" alt="styled-components" width="40" height="40"/></a>
-<a><img title="GSAP" alt="GSAP" width="40" height="40"/></a>
+<a><img src="https://cdn.simpleicons.org/shadcnui" title="shadcn/ui" alt="shadcn/ui" width="40" height="40"/></a>
+<a><img src="https://cdn.simpleicons.org/styledcomponents" title="styled-components" alt="styled-components" width="40" height="40"/></a>
+<a><img src="https://cdn.simpleicons.org/greensock" title="GSAP" alt="GSAP" width="40" height="40"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" alt="expressjs" width="40" height="40"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node-js" alt="node-js" width="40" height="40"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgreSQL" alt="postgreSQL" width="40" height="40"/></a>
@@ -57,7 +57,13 @@ I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB" alt="mongoDB" width="40" height="40"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="supabase" alt="supabase" width="40" height="40"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/></a>
-<!-- <a><img title="" alt="" width="40" height="40"/></a> -->
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="VIM" alt="VIM" width="40" height="40"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntsu" alt="Ubuntsu" width="40" height="40"/></a>
+<a><img title="" alt="" width="40" height="40"/></a>
+<a><img title="" alt="" width="40" height="40"/></a>
+<a><img title="" alt="" width="40" height="40"/></a>
+
 </p>
 
 <!---
