@@ -19,6 +19,11 @@
 <div align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWF5bm5pYTIydjlsYm91Z241Z3B0NXdiOTRqNGQ1NjQ0Z2hlN254NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 </div>
+
+---
+
+### :man_technologist: About Me :
+
 <!---
 ShoeheyOt/ShoeheyOt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
