@@ -26,9 +26,15 @@
 
 I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
 
-- :mag_right: Love to explore a new technology
-- :tada: Hobbies other than coding are basketball :basketball_man:, hiking:hiking_boot:, camping:camping: , and beer:beers:
-- :envelope_with_arrow: Reach me out via [mail](mailto:shuhei.ota.so@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-ShoeheyOt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shuhei-ota-994287289/)
+- :mag_right: Core Skills & Interests: Love to explore a new technology, passionate about crafting exceptional user experiences.
+- :tada: Hobbies: basketball :basketball_man:, hiking:hiking_boot:, camping:camping: , and beer:beers:. A true outdoors enthusiast!
+- :triangular_flag_on_post: Career Goals: Currently focused on becoming a proficient front-end developer. Long-term, aiming to master full-stack development and build robust application.
+- :bearded_person: Personality: A curious and collaborative individual with a passion for sharing and experiencing different cultures, foods, and ideas.
+
+### :mailbox_with_mail: Contact
+
+- :envelope_with_arrow: Reach me out via &nbsp;[![Mail](https://img.shields.io/badge/-GMAIL-red?style=flat&logo=gmail&logoColor=white)](mailto:shuhei.ota.so@gmail.com) &nbsp;or &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-ShoeheyOt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shuhei-ota-994287289/)
+
 - :globe_with_meridians: Please check my portfolio!! :arrow_right:[My Portfolio](https://portfolio-theta-murex-82.vercel.app/)
 
 ---
