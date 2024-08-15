@@ -28,7 +28,7 @@ I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
 
 - :mag_right: Core Skills & Interests: Love to explore a new technology, passionate about crafting exceptional user experiences.
 - :tada: Hobbies: basketball :basketball_man:, hiking:hiking_boot:, camping:camping: , and beer:beers:. A true outdoors enthusiast!
-- :triangular_flag_on_post: Career Goals: Focusing on becoming a front-end developer, Aiming to master full-stack development and build robust application.
+- :triangular_flag_on_post: Goals: Focusing on becoming a front-end developer, aiming to master full-stack development and build robust application.
 - :bearded_person: Personality: A curious and collaborative individual with a passion for sharing and experiencing different cultures and ideas.
 
 ### :mailbox_with_mail: Contact
