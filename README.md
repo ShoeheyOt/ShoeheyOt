@@ -89,15 +89,15 @@ Each of the shape and color has meanings.
 </div>
 <div >
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shape: My last name is Ota (pronounce is similar to 'ought'). written as "大" and "田" in Chinese characters. The logo layers these two characters.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shape:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It represents my last name in Kanji.Ota (pronounce is similar to 'ought') is my last name, which is written as "大" and "田". The logo layers these two characters.
 </p>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Color:
-<ul>
-  <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yellow: Represents joy and happiness, which I convey through my words.</li>
-  <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blue: Represents strength and royalty, which I demonstrate through my actions</li>
-  <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Red: Represents enthusiasm and passion within me</li>
-</ul>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Color:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yellow: Represents joy and happiness, which I convey through my words.</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blue: Represents strength and royalty, which I demonstrate through my actions</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Red: Represents enthusiasm and passion within me
+
 </p>
 
 </div>
