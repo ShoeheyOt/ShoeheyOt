@@ -90,7 +90,7 @@ Each of the shape and color has meanings.
 <div >
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shape:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It represents my last name in Kanji.Ota (pronounce is similar to 'ought') is my last name, </br>which is written as "大" and "田". The logo layers these two characters.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It represents my last name in Kanji.Ota (pronounce is similar to 'ought') is my last name, </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which is written as "大" and "田". The logo layers these two characters.
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Color:</br>
