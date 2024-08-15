@@ -26,10 +26,10 @@
 
 I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
 
-- :seedling: love to explore a new technology
-- :tada: hobbies other than coding are basketball :basketball_man:, hiking:hiking_boot:, and beer:beers:
-- :envelope_with_arrow: please reach me out via
-  [mail](mailto:shuhei.ota.so@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-ShoeheyOt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shuhei-ota-994287289/)
+- :mag_right: love to explore a new technology
+- :tada: hobbies other than coding are basketball :basketball_man:, hiking:hiking_boot:, camping:camping: , and beer:beers:
+- :envelope_with_arrow: please reach me out via [mail](mailto:shuhei.ota.so@gmail.com) or [![Linkedin Badge](https://img.shields.io/badge/-ShoeheyOt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shuhei-ota-994287289/)
+- :globe_with_meridians: Please check my portfolio!! :arrow_right:[My Portfolio](https://portfolio-theta-murex-82.vercel.app/)
 
 ---
 
