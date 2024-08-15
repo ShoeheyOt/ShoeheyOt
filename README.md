@@ -28,8 +28,8 @@ I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
 
 - :mag_right: Core Skills & Interests: Love to explore a new technology, passionate about crafting exceptional user experiences.
 - :tada: Hobbies: basketball :basketball_man:, hiking:hiking_boot:, camping:camping: , and beer:beers:. A true outdoors enthusiast!
-- :triangular_flag_on_post: Career Goals: Focusing on becoming a front-end developer, aiming to master full-stack development and build robust app.
-- :bearded_person: Personality: A curious and collaborative individual with a passion for sharing and experiencing different cultures and ideas.
+- :triangular_flag_on_post: Career Goals: Currently focused on becoming a proficient front-end developer. Long-term, aiming to master full-stack development and build robust application.
+- :bearded_person: Personality: A curious and collaborative individual with a passion for sharing and experiencing different cultures, foods, and ideas.
 
 ### :mailbox_with_mail: Contact
 
@@ -87,8 +87,8 @@ I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
 
 ### :secret:&nbsp;Secret of Logo
 
-This logo represents me. (I created by myself)
-Each of the shape and colour has meaning.
+This logo represents me.(I created by myself)
+Each of the shape and color has meanings.
 
 <div> 
   <img  align="left" src="public/logo.svg" width=200/>
@@ -96,7 +96,7 @@ Each of the shape and colour has meaning.
 <div >
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shape:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It represents my last name in Kanji.Ota (pronounces similar to 'ought') is my last name, </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which is written as "大" and "田". The logo layers these two characters.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It represents my last name in Kanji, Ota (pronounces similar to 'ought') </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; which is written as "大" and "田". The logo layers these two characters.
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Color:</br>
