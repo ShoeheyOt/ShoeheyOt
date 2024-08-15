@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXkxMHBwMmdwNnM2cmd3MGltdTMxbjg5bWtkbnQ2Z2hnYTEwbG5qbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100" />
+    <img src="public/logo.svg" width="200" />
     <div id="badge">
         <a href="https://twitter.com/Shuhei_Ota" target="_blank">
         <img src="https://img.shields.io/badge/x.com-black?logo=X&logoColor=white&style=for-the-badge" alt="X badge"/>
@@ -78,6 +78,22 @@ I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
     </td>
   </tr>
 </table>
+
+### :secret:&nbsp;Secret of Logo
+
+<div align="center"> 
+<img  src="public/logo.svg" width=150/>
+</div>
+
+This logo represents me.(I created by myself)
+
+- Shape: My last name is Ota (pronounce is similar to 'ought'). written as "大" and "田" in Chinese characters. The logo layers these two characters.
+
+- Color:
+  - Yellow: Represents joy and happiness, which I convey through my words.
+  - Blue: Represents strength and royalty, which I demonstrate through my actions
+  - Red: Represents enthusiasm and passion within me
+
 <!---
 ShoeheyOt/ShoeheyOt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
