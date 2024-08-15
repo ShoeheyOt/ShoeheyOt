@@ -81,8 +81,8 @@ I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
 
 ### :secret:&nbsp;Secret of Logo
 
-This logo represents me.(I created by myself)
-Each of the shape and color has meanings.
+This logo represents me. (I created by myself)
+Each of the shape and colour has meaning.
 
 <div> 
   <img  align="left" src="public/logo.svg" width=200/>
@@ -90,7 +90,7 @@ Each of the shape and color has meanings.
 <div >
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shape:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It represents my last name in Kanji.Ota (pronounce is similar to 'ought') is my last name, </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which is written as "大" and "田". The logo layers these two characters.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It represents my last name in Kanji.Ota (pronounces similar to 'ought') is my last name, </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which is written as "大" and "田". The logo layers these two characters.
 </p>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Color:</br>
