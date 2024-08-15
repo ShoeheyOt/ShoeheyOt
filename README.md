@@ -81,18 +81,26 @@ I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
 
 ### :secret:&nbsp;Secret of Logo
 
-<div align="center"> 
-<img  src="public/logo.svg" width=150/>
-</div>
-
 This logo represents me.(I created by myself)
+Each of the shape and color has meanings.
 
-- Shape: My last name is Ota (pronounce is similar to 'ought'). written as "大" and "田" in Chinese characters. The logo layers these two characters.
+<div> 
+  <img  align="left" src="public/logo.svg" width=200/>
+</div>
+<div >
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shape: My last name is Ota (pronounce is similar to 'ought'). written as "大" and "田" in Chinese characters. The logo layers these two characters.
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Color:
+<ul>
+  <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yellow: Represents joy and happiness, which I convey through my words.</li>
+  <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blue: Represents strength and royalty, which I demonstrate through my actions</li>
+  <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Red: Represents enthusiasm and passion within me</li>
+</ul>
+</p>
 
-- Color:
-  - Yellow: Represents joy and happiness, which I convey through my words.
-  - Blue: Represents strength and royalty, which I demonstrate through my actions
-  - Red: Represents enthusiasm and passion within me
+</div>
 
 <!---
 ShoeheyOt/ShoeheyOt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
