@@ -62,7 +62,7 @@ I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
 
 ---
 
-### Github Stats
+### :fire:&nbsp;Github Stats
 
 <table>
   <tr>
