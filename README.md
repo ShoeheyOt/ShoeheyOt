@@ -33,9 +33,9 @@ I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
 
 ### :mailbox_with_mail: Contact
 
-- :envelope_with_arrow: Reach me out via &nbsp;[![Mail](https://img.shields.io/badge/-GMAIL-red?style=flat&logo=gmail&logoColor=white)](mailto:shuhei.ota.so@gmail.com) &nbsp;or &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-ShoeheyOt-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shuhei-ota-994287289/)
+- :envelope_with_arrow: via &nbsp;[![Mail](https://img.shields.io/badge/-GMAIL-red?style=flat&logo=gmail&logoColor=white)](mailto:shuhei.ota.so@gmail.com) &nbsp;or &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Shu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shuhei-ota-994287289/)
 
-- :globe_with_meridians: Please check my portfolio!! :arrow_right:[My Portfolio](https://portfolio-theta-murex-82.vercel.app/)
+- :globe_with_meridians: Here is :arrow_right:&nbsp;[My Portfolio](https://portfolio-theta-murex-82.vercel.app/)
 
 ---
 
