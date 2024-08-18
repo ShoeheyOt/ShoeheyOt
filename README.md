@@ -24,7 +24,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Frontend Developer based in Vancouver :canada: from Japan :jp:
+I am Shuhei(pronounces as shoe-hey, but please call me Shu),a Frontend Developer based in Vancouver :canada: from Japan :jp:
 
 - :mag_right: Core Skills & Interests: Love to explore a new technology, passionate about crafting exceptional user experiences.
 - :triangular_flag_on_post: Goals: Focusing on becoming a front-end developer, aiming to master full-stack development and build robust application.
