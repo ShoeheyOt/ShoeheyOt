@@ -78,7 +78,7 @@ I am Shuhei(pronounces as shoe-hey, but please call me Shu),a Frontend Developer
       </a>
     </td>
     <td align="center">
-      <a href="http://www.github.com/ShoheyOt">
+      <a href="http://www.github.com/ShoeheyOt">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoeheyOt&layout=compact&theme=vision-friendly-dark" alt="ShoeheyOt's GitHub stats" />
       </a>
     </td>
