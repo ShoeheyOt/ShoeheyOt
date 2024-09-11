@@ -95,17 +95,10 @@ Each of the shape and color has meanings.
   <img  align="left" src="public/logo.svg" width=200/>
 </div>
 <div >
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shape:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It represents my last name in Kanji, Ota (pronounces similar to 'ought') </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; which is written as "大" and "田". The logo layers these two characters.
-</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Color:</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yellow: Represents joy and happiness, which I convey through my words.</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blue: Represents strength and royalty, which I demonstrate through my actions</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Red: Represents enthusiasm and passion within me
-
-</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shape:</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It represents my last name in Kanji, Ota (pronounces similar to 'ought') </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; which is written as "大" and "田". The logo layers these two characters.
+  </p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Color:</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yellow: Represents joy and happiness, which I convey through my words.</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blue: Represents strength and royalty, which I demonstrate through my actions</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Red: Represents enthusiasm and passion within me
+  </p>
 
 </div>
 
