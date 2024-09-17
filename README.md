@@ -64,7 +64,8 @@ I am Shuhei(pronounces as shoe-hey, like :athletic_shoe::wave:), a Frontend Deve
     <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/></a>&nbsp;
     <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/></a>&nbsp;
     <a href="https://ubuntu.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntsu" alt="Ubuntsu" width="40" height="40"/></a>&nbsp;
-    <a href="https://www.vim.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="VIM" alt="VIM" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.vim.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/></a>&nbsp;
+    <a href="https://neovim.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40"/></a>&nbsp;
 </p>
 
 ---
